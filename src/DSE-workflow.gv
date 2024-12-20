@@ -1,0 +1,19 @@
+digraph DSE {
+    Quelle -> 
+    {rank = same; Bilddigitalisate; Metadaten;}
+    Normdaten -> Semantik; 
+  Bilddigitalisate -> "OCR/HTR" -> Editionsdaten;
+  Bilddigitalisate -> "Transkription" -> Editionsdaten;
+  Bilddigitalisate -> Struktur;
+  Struktur -> Editionsdaten; Semantik -> Editionsdaten; Metadaten -> Editionsdaten; 
+  Editionsdaten -> Editionsdaten; 
+  Editionsdaten -> Langzeitarchivierung; 
+  Editionsdaten -> Webapplikation;
+  Editionsdaten -> Printausgabe;
+  Editionsdaten -> "API-Zugriff";
+  
+  label = "\nSchematischer Abriss Vorgehensweise bei der Eingabe, Verarbeitung und Ausgabe von Daten für die digitale Edition; Eigenes Werk Stephan Kurz, \nCC-BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.de";
+}
+
+# dot -Tsvg DSE-workflow.gv -o DSE-workflow.gv.svg
+# dot -Teps DSE-workflow.gv -o DSE-workflow.gv.eps
