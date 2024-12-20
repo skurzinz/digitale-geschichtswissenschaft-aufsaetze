@@ -12,6 +12,10 @@ Stephan Kurz: Daten und Schnittstellen: Die Ausgabeseite digitaler Editionen. In
 
 Wer das Buch oder Beiträge daraus immer noch kaufen möchte, ist mit <https://dx.doi.org/10.36198/9783838561165> gut bedient; die vereinbarte exklusive Nutzung durch den Verlag ist seit 2024-12-11 erloschen – die BeiträgerInnen anzuschreiben mag helfen. 
 
+## Zenodo release 
+
+[![DOI](https://zenodo.org/badge/906423141.svg)](https://doi.org/10.5281/zenodo.14538334)
+
 ## Quellen
 
 Im Ordner `src` liegen die Quelldateien in Markdown (vor dem letzten Umbruch), die Graphviz-Quelle für eine Abbildung; in `src/bib` BibTeX-Daten zur verwendeten Literatur. 
