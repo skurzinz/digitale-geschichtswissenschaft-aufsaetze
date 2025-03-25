@@ -157,7 +157,7 @@ In der digitalen Edition werden Named Entities üblicherweise in externen Listen
 
 ___
 
-Im Gesamtgefüge der mit „digitalen“ Mitteln betriebenen Geschichtswissenschaft jinnt der wissenschaftlichen digitalen Edition ein zentraler Stellenwert zu. Sie ermöglicht einen standardisierten Zugriff auf edierte Quellen, der nicht nur auf die engen Grenzen des einzelnen Fachs beschränkt ist. Mit der an Standards wie dem TEI-Vokabular orientierten Wiedergabe der Edenda lässt sich neben dem „Inhalt“ einer Quelle auch deren Form in menschen- wie maschinenlesbarer Form abbilden. 
+Im Gesamtgefüge der mit „digitalen“ Mitteln betriebenen Geschichtswissenschaft kommt der wissenschaftlichen digitalen Edition ein zentraler Stellenwert zu. Sie ermöglicht einen standardisierten Zugriff auf edierte Quellen, der nicht nur auf die engen Grenzen des einzelnen Fachs beschränkt ist. Mit der an Standards wie dem TEI-Vokabular orientierten Wiedergabe der Edenda lässt sich neben dem „Inhalt“ einer Quelle auch deren Form in menschen- wie maschinenlesbarer Form abbilden. 
 
 Grundsätze der Textwiedergabe wie individuelle Verantwortlichkeiten für Lesarten, Kommentare, Änderungen werden in der digitalen Edition mit dokumentiert.
 
