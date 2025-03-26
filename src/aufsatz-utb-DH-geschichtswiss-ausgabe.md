@@ -18,7 +18,7 @@ Die Daten der Edition in standardisiertem Format sind erstes und zentrales Ergeb
 
 ### Webapplikationen
 
- Zu einer digitalen Edition gehört denn denn üblicherweise nicht nur die Bereitstellung der Quelldaten, sondern auch eine im öffentlichen Web zugängliche Webapplikation, die die im Editionsprozess erarbeiteten Daten darstellt. Kriterien für deren Beurteilung hat das Rezensionsjournal RIDE des Instituts für Dokumentologie und Editorik e.V. erarbeitet (@SahleCriteriaReviewingScholarly2014). Diese Beurteilungskriterien geben abseits der fachspezifischen Gepflogenheiten ein gutes Bild von den tatsächlichen Erwartungen zumindest eines Teils der zu erwartenden Benutzer:innen einer digitalen Edition und sind insofern ein wichtiges Handwerkszeug schon bei der Planung einer wissenschaftlichen digitalen Edition.
+ Zu einer digitalen Edition gehört denn üblicherweise nicht nur die Bereitstellung der Quelldaten, sondern auch eine im öffentlichen Web zugängliche Webapplikation, die die im Editionsprozess erarbeiteten Daten darstellt. Kriterien für deren Beurteilung hat das Rezensionsjournal RIDE des Instituts für Dokumentologie und Editorik e.V. erarbeitet (@SahleCriteriaReviewingScholarly2014). Diese Beurteilungskriterien geben abseits der fachspezifischen Gepflogenheiten ein gutes Bild von den tatsächlichen Erwartungen zumindest eines Teils der zu erwartenden Benutzer:innen einer digitalen Edition und sind insofern ein wichtiges Handwerkszeug schon bei der Planung einer wissenschaftlichen digitalen Edition.
 
 
 ___
